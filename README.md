@@ -44,5 +44,3 @@ Virtual Assistance services are available in 10 hour weekly packages, at an hour
 
 ## Contact Us
 The extra hours you've been searching for are here! Contact us at matildadigital+timebox@gmail.com to start using TimeBox today.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
