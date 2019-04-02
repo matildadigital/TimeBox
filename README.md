@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+# Your schedule is clear.
 
-You can use the [editor on GitHub](https://github.com/matildadigital/timebox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+TimeBox Virtual Assistance quickly and cheerfully takes care of the essential office tasks clearing your calendar for more of what matters to you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Services
+### Customer Experience
+- Customer Relations
+- Customer Service
+- Technical Support
+
+### Scheduling and Calendar management
+### Correspondence and Phone Screening
+### Business Communication
+### Travel Management
+### Office Supply Orders
+### Conference Call Coordination
+### Presentation Creation
 
 ### Markdown
 
