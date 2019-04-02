@@ -1,24 +1,47 @@
 # Your schedule is clear.
 
-TimeBox Virtual Assistance quickly and cheerfully takes care of the essential office tasks clearing your calendar for more of what matters to you.
+TimeBox Virtual Assistance clears your calendar for more of what matters to you. We cheerfully multitask to handle your fast-paced office's administrative requests with grit. 
 
 ## Services
+
+### Meeting and Schedule Coordination
+- Meeting scheduling
+- Meeting recording and minutes
+- Appointment calendar management
+- Conference call setup
+- Presentation design
+
+### Travel Management
+- Accomodations research and booking
+- Rental car and chauffer reservations
+- Dining and entertainment suggestions
+- Local culture insights
+- Travel warnings
+
+### Business Communication
+- Phone call screening
+- Email correspondence
+- Report creation
+
 ### Customer Experience
 - Customer Relations
 - Customer Service
 - Technical Support
 
-### Scheduling and Calendar management
-### Correspondence and Phone Screening
-### Business Communication
-### Travel Management
 ### Office Supply Orders
-### Conference Call Coordination
-### Presentation Creation
+- Inventory tracking
+- Order management
+- Invoice processing
 
-### Markdown
+## Pricing
+Virtual Assistance services are available in 10 hour weekly packages, at an hourly rate, or per task. Choose the support package that works best for your business.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 10 Hours of virtual assistance for $210/week.
+- 1 Hour of virtual assistance for $30 reserved at least 72 hours in advance.
+- Rapid, on-call assistance with in-person help for $40 per hour within a 25 mile radius of Englewood, CO.
+
+## Contact Us
+The extra hours you've been searching for are here! Contact us at matildadigital+timebox@gmail.com to start using TimeBox today. 
 
 ```markdown
 Syntax highlighted code block
@@ -39,11 +62,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matildadigital/timebox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
